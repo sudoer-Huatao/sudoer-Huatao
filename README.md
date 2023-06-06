@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudoer-Huatao
 - 👀 I’m interested in Python and Pygame coding
-- 🌱 I’m currently learning Advanced Calculus
+- 🌱 I’m currently learning Advanced Calculus and Linear Algebra
 - 💞️ I’m looking to collaborate on major projects
 
 <!---
