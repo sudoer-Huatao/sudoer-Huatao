@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @sudoer-Huatao
-- 👀 I’m interested in Python and Pygame coding
-- 🌱 I’m currently learning Advanced Calculus and Linear Algebra
-- 💞️ I’m looking to collaborate on major projects
+👋 Sup, I'm H.T.
+
+## Hobbies
+
+- Python programming
+- Calculus and math
+- Astrophysics
+- Badminton
+
+## Contact me
+
+All emails here: huatao.xue@outlook.com
+
+Gmail (won't check often): huatao.xue@gmail.com
+
 
 <!---
 sudoer-Huatao/sudoer-Huatao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
