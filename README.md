@@ -12,7 +12,10 @@ Hi，我是ht
 ## Contact me
 
 All emails here: huatao.xue@outlook.com
+
 如果有任何问题，联系我：huatao.xue@outlook.com
+
+知乎账号：h.t.
 
 Gmail (won't check often): huatao.xue@gmail.com
 
